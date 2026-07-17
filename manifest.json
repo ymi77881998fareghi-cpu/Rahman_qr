@@ -1,0 +1,27 @@
+{
+  "name": "مؤسسه توانبخشی و نگهداری دختران کم‌توان ذهنی رحمان",
+  "short_name": "رحمان",
+  "description": "سامانه حمایت مالی و اطلاعات بانکی مؤسسه رحمان",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0d8f60",
+  "background_color": "#0b4d3a",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
